@@ -1,0 +1,6 @@
+{
+  "name": "Smart POS ERP UMKM",
+  "description": "Sistem POS and ERP Automation modern untuk UMKM Indonesia dengan bento grid darkmode bermutu tinggi, terintegrasi mantap dengan Google Sheets as Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
